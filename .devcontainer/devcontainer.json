@@ -1,0 +1,7 @@
+{
+	"name": "nvim devcontainer for test",
+	"build": {
+		"dockerfile": "Dockerfile.nvim"
+	},
+	"remoteUser": "vscode"
+}
